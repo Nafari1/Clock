@@ -1,2 +1,2 @@
-# Clock
-widget clock on desktop
+Widget application clock on desktop in Java eclipse.
+
